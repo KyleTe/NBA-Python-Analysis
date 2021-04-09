@@ -1,7 +1,6 @@
 # NBA-Python-Analysis
-NBA-Python-Analysis
 
-Introduction
+## Introduction
 
 The goal of this project is to process the NBA dataset, clean, interpret, analyze, visualize the data, making prediction and regression analysis. Dataset includes the NBA data of each game from 2004 to 03/01/2020, all statistics of players for a given game and detail such as player performance, played time and seasonal team record.
 
@@ -16,7 +15,7 @@ Since the 19-20 season only completed about 90% of regular season, we do not hav
 Choice for Data Processing or Data Analysis:
 Since our dataset is relatively clearner than other dataset, for exmaple, only date format and minor parts need to be cleaned. Therefore, we will choose Data Analysis on our project.
 
-Dataset overview 
+## Dataset overview 
 The dataset was collected from https://www.kaggle.com/nathanlauga/nba-games
 
 The dataset contains 5 data:
